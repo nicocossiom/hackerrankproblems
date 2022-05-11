@@ -9,7 +9,7 @@ from typing import List
 
 
 #
-# Complete the '2queue' function below.
+# Complete the '2huffmancoding' function below.
 #
 # The function is expected to return an INTEGER.
 # The function accepts 2D_INTEGER_ARRAY arr as parameter.
