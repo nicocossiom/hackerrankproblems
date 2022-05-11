@@ -7,7 +7,7 @@ import re
 import sys
 
 #
-# Complete the '1mergeLists' function below.
+# Complete the '1simpletexteditor' function below.
 #
 # The function is expected to return an INTEGER.
 # The function accepts INTEGER_ARRAY a as parameter.
